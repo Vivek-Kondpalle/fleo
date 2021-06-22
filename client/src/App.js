@@ -3,7 +3,16 @@ import './App.css';
 function App() {
   return (
     <div>
-      Hi
+      <input type="text" />
+      <div>
+        hello
+      </div>
+      <div>
+        how r u
+      </div>
+      <div>
+        where r u
+      </div>
     </div>
   );
 }
