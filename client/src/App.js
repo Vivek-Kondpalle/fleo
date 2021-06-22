@@ -10,6 +10,9 @@ function App() {
       <div>
         how r u
       </div>
+      <div>
+        added again
+      </div>
     </div>
   );
 }
